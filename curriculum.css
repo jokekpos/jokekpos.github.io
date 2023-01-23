@@ -1,0 +1,59 @@
+/*Modificaciones del fondo*/
+body {
+    background-image: url(https://zemper.com/coatzem/uploads/2016/10/fondo-blanco.jpg);
+    width: 800px;
+    border: 5px solid red;
+    padding-top: 10px;
+    padding-left: 0;
+}
+
+/*Modificaciones del titulo con la foto*/
+#foto{
+    text-align: left;
+}
+#nombre {
+    text-align: left;
+    font-size: 60px;
+    font-family: 'lobster', cursive;
+}
+#abogada{
+    text-align: left;
+}
+
+/*modificaciones de datos de contacto*/
+#contacto {
+    text-align: left;
+    font-size: larger;
+
+}
+#direccion {
+    text-align: left;
+    font-size: 12px;
+    font-family: 'Oswald', sans-serif;
+}
+#telefono {
+    text-align: left;
+    font-size: 12px;
+    font-family: 'Oswald', sans-serif;
+}
+#email {
+    text-align: left;
+    font-size: 12px;
+    font-family: 'Oswald', sans-serif;
+}
+
+/*modificaciones de educacion*/
+
+#educacion {
+    text-align: left;
+}
+
+/*modificaciones en experiencia y aptitudes*/
+h2 {
+    font-family: 'Sofia Sans', sans-serif;
+}
+li {
+    text-align: left;
+    font-size: small;
+}
+
